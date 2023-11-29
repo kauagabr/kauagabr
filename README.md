@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6495ED&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Kauã+Gabriel;Tenho+20+anos;Trabalho+com+Inteligência+Artificial+(IA);+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6495ED&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Kauã+Gabriel;Tenho+20+anos;Trabalho+com+IA+e+Desenvolvimento+de+software;+:%29)](https://git.io/typing-svg)
 
 <img src="https://images.rigzone.com/images/news/articles/Data-Science-is-the-Future-of-Oil-and-Gas-172966-1200x675.webp">
 
