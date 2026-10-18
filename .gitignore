@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+# fotos: só o ascii-portrait.svg precisa ir para o repositório
+source-photo.*
+source-prepped.png
+.DS_Store

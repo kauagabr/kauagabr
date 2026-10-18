@@ -1,0 +1,6 @@
+# Só para rodar localmente quando você trocar a foto / o retrato ASCII
+pillow
+numpy
+opencv-python
+rembg
+onnxruntime
