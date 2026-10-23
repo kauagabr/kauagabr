@@ -231,7 +231,7 @@ text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,"Liberation Mono",mo
 <rect class="c l1" x="494.9" y="112.9" width="12.0" height="12.0" rx="2.5" style="animation-delay:1.29s"/>
 <rect class="c l2" x="494.9" y="127.8" width="12.0" height="12.0" rx="2.5" style="animation-delay:1.32s"/>
 <rect class="c l1" x="494.9" y="142.8" width="12.0" height="12.0" rx="2.5" style="animation-delay:1.35s"/>
-<rect class="c l1" x="494.9" y="157.8" width="12.0" height="12.0" rx="2.5" style="animation-delay:1.38s"/>
+<rect class="c l2" x="494.9" y="157.8" width="12.0" height="12.0" rx="2.5" style="animation-delay:1.38s"/>
 <rect class="c l2" x="509.8" y="68.0" width="12.0" height="12.0" rx="2.5" style="animation-delay:1.23s"/>
 <rect class="c l2" x="509.8" y="83.0" width="12.0" height="12.0" rx="2.5" style="animation-delay:1.26s"/>
 <rect class="c l1" x="509.8" y="97.9" width="12.0" height="12.0" rx="2.5" style="animation-delay:1.29s"/>
@@ -251,7 +251,7 @@ text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,"Liberation Mono",mo
 <rect class="c l1" x="539.8" y="97.9" width="12.0" height="12.0" rx="2.5" style="animation-delay:1.35s"/>
 <rect class="c l2" x="539.8" y="112.9" width="12.0" height="12.0" rx="2.5" style="animation-delay:1.38s"/>
 <rect class="c l1" x="539.8" y="127.8" width="12.0" height="12.0" rx="2.5" style="animation-delay:1.41s"/>
-<rect class="c l3" x="539.8" y="142.8" width="12.0" height="12.0" rx="2.5" style="animation-delay:1.44s"/>
+<rect class="c l2" x="539.8" y="142.8" width="12.0" height="12.0" rx="2.5" style="animation-delay:1.44s"/>
 <rect class="c l0" x="539.8" y="157.8" width="12.0" height="12.0" rx="2.5" style="animation-delay:1.47s"/>
 <rect class="c l0" x="554.7" y="68.0" width="12.0" height="12.0" rx="2.5" style="animation-delay:1.32s"/>
 <rect class="c l1" x="554.7" y="83.0" width="12.0" height="12.0" rx="2.5" style="animation-delay:1.35s"/>
@@ -271,7 +271,7 @@ text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,"Liberation Mono",mo
 <rect class="c l0" x="584.6" y="83.0" width="12.0" height="12.0" rx="2.5" style="animation-delay:1.41s"/>
 <rect class="c l1" x="584.6" y="97.9" width="12.0" height="12.0" rx="2.5" style="animation-delay:1.44s"/>
 <rect class="c l0" x="584.6" y="112.9" width="12.0" height="12.0" rx="2.5" style="animation-delay:1.47s"/>
-<rect class="c l3" x="584.6" y="127.8" width="12.0" height="12.0" rx="2.5" style="animation-delay:1.50s"/>
+<rect class="c l2" x="584.6" y="127.8" width="12.0" height="12.0" rx="2.5" style="animation-delay:1.50s"/>
 <rect class="c l1" x="584.6" y="142.8" width="12.0" height="12.0" rx="2.5" style="animation-delay:1.53s"/>
 <rect class="c l0" x="584.6" y="157.8" width="12.0" height="12.0" rx="2.5" style="animation-delay:1.56s"/>
 <rect class="c l0" x="599.6" y="68.0" width="12.0" height="12.0" rx="2.5" style="animation-delay:1.41s"/>
@@ -334,7 +334,7 @@ text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,"Liberation Mono",mo
 <rect class="c l0" x="719.3" y="83.0" width="12.0" height="12.0" rx="2.5" style="animation-delay:1.68s"/>
 <rect class="c l0" x="719.3" y="97.9" width="12.0" height="12.0" rx="2.5" style="animation-delay:1.71s"/>
 <rect class="c l2" x="719.3" y="112.9" width="12.0" height="12.0" rx="2.5" style="animation-delay:1.74s"/>
-<rect class="c l4" x="719.3" y="127.8" width="12.0" height="12.0" rx="2.5" style="animation-delay:1.77s"/>
+<rect class="c l3" x="719.3" y="127.8" width="12.0" height="12.0" rx="2.5" style="animation-delay:1.77s"/>
 <rect class="c l1" x="719.3" y="142.8" width="12.0" height="12.0" rx="2.5" style="animation-delay:1.80s"/>
 <rect class="c l0" x="719.3" y="157.8" width="12.0" height="12.0" rx="2.5" style="animation-delay:1.83s"/>
 <rect class="c l0" x="734.3" y="68.0" width="12.0" height="12.0" rx="2.5" style="animation-delay:1.68s"/>
@@ -383,8 +383,9 @@ text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,"Liberation Mono",mo
 <rect class="c l1" x="824.0" y="83.0" width="12.0" height="12.0" rx="2.5" style="animation-delay:1.89s"/>
 <rect class="c l1" x="824.0" y="97.9" width="12.0" height="12.0" rx="2.5" style="animation-delay:1.92s"/>
 <rect class="c l1" x="824.0" y="112.9" width="12.0" height="12.0" rx="2.5" style="animation-delay:1.95s"/>
-<rect class="c l0" x="824.0" y="127.8" width="12.0" height="12.0" rx="2.5" style="animation-delay:1.98s"/>
-<text class="fg t" x="46" y="199.73584905660377" font-size="12" font-weight="bold">346 contribuições no último ano</text>
-<text class="dim t" x="46" y="219.73584905660377" font-size="11">sequência atual: 6 dias  ·  maior sequência: 12 dias  ·  melhor dia: 15 em 25/06/2026</text>
+<rect class="c l5" x="824.0" y="127.8" width="12.0" height="12.0" rx="2.5" style="animation-delay:1.98s"/>
+<rect class="c l0" x="824.0" y="142.8" width="12.0" height="12.0" rx="2.5" style="animation-delay:2.01s"/>
+<text class="fg t" x="46" y="199.73584905660377" font-size="12" font-weight="bold">364 contribuições no último ano</text>
+<text class="dim t" x="46" y="219.73584905660377" font-size="11">sequência atual: 7 dias  ·  maior sequência: 12 dias  ·  melhor dia: 15 em 25/06/2026</text>
 <text class="dim t" x="723" y="199.73584905660377" font-size="11" text-anchor="end">menos</text><rect class="l0" x="729" y="190.7" width="10" height="10" rx="2"/><rect class="l1" x="742" y="190.7" width="10" height="10" rx="2"/><rect class="l2" x="755" y="190.7" width="10" height="10" rx="2"/><rect class="l3" x="768" y="190.7" width="10" height="10" rx="2"/><rect class="l4" x="781" y="190.7" width="10" height="10" rx="2"/><rect class="l5" x="794" y="190.7" width="10" height="10" rx="2"/><text class="dim t" x="836" y="199.73584905660377" font-size="11" text-anchor="end">mais</text>
 </svg>
