@@ -379,8 +379,9 @@ text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,"Liberation Mono",mo
 <rect class="c l5" x="809.1" y="127.8" width="12.0" height="12.0" rx="2.5" style="animation-delay:1.95s"/>
 <rect class="c l1" x="809.1" y="142.8" width="12.0" height="12.0" rx="2.5" style="animation-delay:1.98s"/>
 <rect class="c l1" x="809.1" y="157.8" width="12.0" height="12.0" rx="2.5" style="animation-delay:2.01s"/>
-<rect class="c l0" x="824.0" y="68.0" width="12.0" height="12.0" rx="2.5" style="animation-delay:1.86s"/>
-<text class="fg t" x="46" y="199.73584905660377" font-size="12" font-weight="bold">366 contribuições no último ano</text>
-<text class="dim t" x="46" y="219.73584905660377" font-size="11">sequência atual: 9 dias  ·  maior sequência: 12 dias  ·  melhor dia: 15 em 25/06/2026</text>
+<rect class="c l1" x="824.0" y="68.0" width="12.0" height="12.0" rx="2.5" style="animation-delay:1.86s"/>
+<rect class="c l0" x="824.0" y="83.0" width="12.0" height="12.0" rx="2.5" style="animation-delay:1.89s"/>
+<text class="fg t" x="46" y="199.73584905660377" font-size="12" font-weight="bold">367 contribuições no último ano</text>
+<text class="dim t" x="46" y="219.73584905660377" font-size="11">sequência atual: 10 dias  ·  maior sequência: 12 dias  ·  melhor dia: 15 em 25/06/2026</text>
 <text class="dim t" x="723" y="199.73584905660377" font-size="11" text-anchor="end">menos</text><rect class="l0" x="729" y="190.7" width="10" height="10" rx="2"/><rect class="l1" x="742" y="190.7" width="10" height="10" rx="2"/><rect class="l2" x="755" y="190.7" width="10" height="10" rx="2"/><rect class="l3" x="768" y="190.7" width="10" height="10" rx="2"/><rect class="l4" x="781" y="190.7" width="10" height="10" rx="2"/><rect class="l5" x="794" y="190.7" width="10" height="10" rx="2"/><text class="dim t" x="836" y="199.73584905660377" font-size="11" text-anchor="end">mais</text>
 </svg>
